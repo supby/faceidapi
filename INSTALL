@@ -1,0 +1,7 @@
+1. git clone https://github.com/supby/faceidapi.git
+2. cd faceidapi
+3. virtualenv .
+4. source bin/activate
+5. pip install -r requirements.txt
+6. install OpenCV (download sources and build it)
+7. cp /usr/local/lib/python2.7/dist-packages/cv* ./lib/python2.7/site-packages/
